@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @labbadeepak 
 - 👀 I’m interested in solving bussiness problems
-- 🌱 I’m currently learning data analysis and machine learning models
+- 🌱 I’m currently learning data analysis and machine learning techniques
 - 💞️ I’m looking to collaborate on machine learning and data analysis projects
 - 📫 How to reach me www.linkedin.com/in/labbadeepakkumar
 
