@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @labbadeepak 
-- 👀 I’m interested in building things that impact organisations and people life.
+- 👀 I’m interested in building things that impact organisations and people lives.
 - 🌱 I’m currently learning  machine learning and data engineering
 - 💞️ I’m looking to collaborate on machine learning and data engineering  projects
 - 📫 How to reach me www.linkedin.com/in/labbadeepakkumar
