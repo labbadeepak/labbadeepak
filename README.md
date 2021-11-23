@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @labbadeepak 
-- 👀 I’m interested in solving bussiness problems
-- 🌱 I’m currently learning  machine learning and deep learning techniques
-- 💞️ I’m looking to collaborate on machine learning and deep learning  projects
+- 👀 I’m interested in building things that impact organisations and people life.
+- 🌱 I’m currently learning  machine learning and data engineering
+- 💞️ I’m looking to collaborate on machine learning and data engineering  projects
 - 📫 How to reach me www.linkedin.com/in/labbadeepakkumar
 
 <!---
